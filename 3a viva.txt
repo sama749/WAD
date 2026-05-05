@@ -1,0 +1,98 @@
+🎯 BASIC QUESTIONS
+1. What is jQuery Mobile?
+
+👉 jQuery Mobile is a framework used to create mobile-friendly web applications using HTML, CSS, and jQuery.
+
+2. Why did you use jQuery Mobile?
+
+👉 To create a mobile responsive website with less code using predefined UI components.
+
+3. What are the main features of jQuery Mobile?
+
+👉
+
+Touch-friendly UI
+Responsive design
+Built-in themes
+Easy navigation
+🎯 STRUCTURE QUESTIONS
+4. What is data-role="page"?
+
+👉 It defines a single page in jQuery Mobile.
+
+5. What is data-role="header" and footer?
+
+👉
+
+Header → top section
+Footer → bottom section
+6. What is data-role="content"?
+
+👉 It contains the main content of the page.
+
+🎯 NAVIGATION QUESTIONS
+7. How navigation works in your program?
+
+👉 Using internal links with page IDs (#home, #about, #contact).
+
+8. What is multi-page structure?
+
+👉 Multiple pages are defined in one HTML file using different IDs.
+
+🎯 COMPONENTS QUESTIONS
+9. What is ui-btn?
+
+👉 It is a styled button class in jQuery Mobile.
+
+10. What is ui-btn-a and ui-btn-b?
+
+👉 They are theme color classes for buttons.
+
+11. What is data-role="listview"?
+
+👉 It creates a mobile-friendly list view.
+
+12. Why did you use listview?
+
+👉 To display items in a structured and styled list.
+
+🎯 RESPONSIVENESS QUESTIONS
+13. How is your page mobile-friendly?
+
+👉 Because jQuery Mobile automatically adapts layout for mobile devices.
+
+14. What is viewport meta tag?
+
+👉 It ensures proper scaling on mobile screens.
+
+🎯 TECHNICAL QUESTIONS
+15. What libraries did you include?
+
+👉
+
+jQuery
+jQuery Mobile CSS & JS
+16. Why is jQuery required?
+
+👉 Because jQuery Mobile is built on top of jQuery.
+
+🎯 PRACTICAL UNDERSTANDING
+17. Can we create multiple pages in one file?
+
+👉 Yes, using multiple data-role="page" sections.
+
+18. What happens when you click a link?
+
+👉 It loads another page without refreshing the whole website.
+
+🎯 ADVANCED (if examiner asks)
+19. What is theme in jQuery Mobile?
+
+👉 It controls color and design of UI elements.
+
+20. Difference between Bootstrap and jQuery Mobile?
+
+👉
+
+Bootstrap → general responsive design
+jQuery Mobile → mobile-specific UI framework
