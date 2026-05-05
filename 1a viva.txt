@@ -1,0 +1,75 @@
+1. What is Bootstrap?
+👉 Bootstrap is a front-end framework used to create responsive and mobile-first web pages using HTML, CSS, and JavaScript.
+
+2. Why did you use Bootstrap in this program?
+👉 To make the webpage responsive easily and use predefined components like cards and grid system.
+
+3. What is a responsive web page?
+👉 A responsive web page adjusts its layout according to screen size like mobile, tablet, and desktop.
+
+4. Which Bootstrap version did you use?
+👉 Bootstrap 5.3 (CDN link).
+
+🎯 LAYOUT & GRID QUESTIONS
+5. What is Bootstrap Grid System?
+👉 It is a 12-column layout system used to design responsive pages.
+
+6. Explain col-md-3 and col-sm-6
+col-md-3 → takes 3 columns on medium screens
+col-sm-6 → takes 6 columns on small screens
+
+7. Why did you use container-fluid?
+👉 To make layout full width across the screen.
+
+8. What is row and col?
+👉
+row → horizontal group
+col → columns inside row.
+
+🎯 COMPONENTS QUESTIONS
+9. What is a card in Bootstrap?
+👉 A card is a flexible content container used to display information like statistics.
+
+10. Why did you use cards in your program?
+👉 To display dashboard statistics like students, courses, exams.
+
+11. What is navbar or sidebar?
+👉 Sidebar is a vertical navigation menu used for navigation links.
+
+12. How did you create sidebar?
+👉 Using:
+col-md-3
+nav flex-column
+
+🎯 DESIGN QUESTIONS
+13. What is vh-100?
+👉 It sets height to 100% of viewport height.
+
+14. What is p-3 and mb-3?
+👉
+p-3 → padding
+mb-3 → margin bottom
+
+15. Why use different colors like bg-primary, bg-success?
+👉 To visually differentiate sections and improve UI.
+
+🎯 PRACTICAL UNDERSTANDING
+16. How is your page responsive?
+👉 Using:
+Bootstrap grid (col-md, col-sm)
+Container-fluid
+
+17. What happens on mobile screen?
+👉 Cards stack vertically due to col-sm-6.
+
+18. Can you add more sections?
+👉 Yes, by adding more cards or columns in grid.
+
+🎯 ADVANCED (if examiner asks deeper)
+19. What is CDN?
+👉 CDN is a Content Delivery Network used to load Bootstrap online without downloading.
+
+20. Difference between container and container-fluid?
+👉
+container → fixed width
+container-fluid → full width
