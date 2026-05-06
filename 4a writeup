@@ -1,0 +1,25 @@
+Problem statement:
+
+a. Create a simple Mobile Website using jQuery Mobile. 
+
+Theory:
+
+jQuery Mobile
+JQuery Mobile is a user interface framework, built on jQuery Core and use used for developing responsive websites or applications that are accessible on mobile, tablet, and desktop devices. It uses features of both ¡Query and jQueryUI to provide API features for mobile web applications. This tutorial will teach n you you the the basics basics of of jQuery jQuery Mobile framework. We will also discuss some detailed concepts related to jQuery Mobile.
+
+Why Use jQuery Mobile?
+It creates web applications that it will work the same way on the mobile, tablet, and desktop devices. h other frameworks
+It is compatible with such as PhoneGap, Whitelight, etc. 
+It provides a set of touch-friendly form inputs and UI widgets.
+
+Features of jQuery Mobile
+It is built on jQuery Core and "write less, do more" UI framework. It is an open source framework, and cross-platform as well as cross-browser compatible.
+It is written in JavaScript and uses features of both jQuery and jQuery UI for building mobile-friendly sites.
+
+Download jQuery Mobile
+
+When you open the link https://jquerymobile.com/, you will see options to download jQuery mobile library.
+Click the Stable button, which leads directly to a ZIP file containing the CSS and JQuery f for the latest version of jQuery mobile library. Extract the ZIP file contents to a jQuery mobile directory.
+This version contains all files including all dependencies, a large collection of demos, and even the library's unit test suite. This version is helpful to getting started.
+
+Conclusion
