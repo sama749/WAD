@@ -46,3 +46,40 @@ font-family: verdana; font-size: 20px;
 <body>
 <h1>My First CSS Example</h1> <p>This is a paragraph.</p>
 </body> </html>
+
+III. Bootstrap
+
+Bootstrap is a free and open-source tool collection for creating responsive websites and web applications. pplications. It It is is the the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. It solves many problems which we had once one of which is the cross-browser compatibility issue. Nowadays, the websites are perfect for all the browsers (IE, Firefox, and Chrome) and for all sizes of screens (Desktop, Tablets,Phablets, and Phones).
+
+Why Bootstrap?
+Faster and Easier Web Development.
+It creates Platform-independent web pages.
+It creates Responsive Web-pages
+It is designed to be responsive to mobile devices too.
+It is Free! Available on www.getbootstrap.com
+
+Simple Example
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Bootstrap Example</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-
+scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.cor bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/ js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container"> <h1>My First Bootstrap Page</h1>
+<p>This is some text.</p>
+</div>
+</body>
+</html>
+
+Bootstrap CDN
+<!-- Latest compiled and minified CSS --> <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstra p/3.4.1/css/bootstrap.min.css">
+<!-- jQuery library
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquer y.min.js"></script>
+<!-- Latest compiled JavaScript --> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/boots trap.min.js"></script>
